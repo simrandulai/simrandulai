@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Simran Dulai
-Hi! I'm Simran, a professional Business Intelligence Analyst with experience on more than 3 technical projects. My skills include business analytics, data visualizaion and storytelling, SQL, Tableu, and Microsoft Power BI. Now, I am eager to leverage my skills in the media and communications sphere to drive growth with actionable insights.
+Hi! I'm Simran, a professional Business Intelligence Analyst with experience on more than 3 technical projects. My skills include business analytics, data visualizaion and storytelling, spreadsheets, SQL, Tableu, and Microsoft Power BI. Now, I am eager to leverage my skills in the media and communications sphere to drive growth with actionable insights.
 
 - 🔭 Currently analyzing raw transaction logs to calculate retention rates for an e-commerce company. 
 - 🌱 Currently learning Tableau.
