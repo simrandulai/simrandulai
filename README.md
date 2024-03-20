@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Simran Dulai
-Hi! I'm Simran, a professional Business Intelligence Analyst with experience on more than 5 technical projects. My skills include data analytics, data visualization, storytelling, spreadsheets, SQL, Tableau, and Microsoft Power BI. I am eager to leverage my skills in the media and communications sphere to drive growth with actionable insights.
+Hi! I'm Simran, a professional Business Intelligence Analyst with experience on more than 6 technical projects. My skills include data analytics, data visualization, storytelling, spreadsheets, SQL, Tableau, and Microsoft Power BI. I am eager to leverage my skills in the media and communications sphere to drive growth with actionable insights.
 
 - 🔭 Currently reviewing the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. 
 - 🌱 Currently learning Microsoft Power BI.
