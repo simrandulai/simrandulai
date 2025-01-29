@@ -1,15 +1,25 @@
 ### Hey there 👋, I'm Simran Dulai
-Hi! I'm Simran, a professional Business Intelligence Analyst with experience on a growing number of technical projects. My skills include data analysis, data visualization, storytelling, spreadsheets, SQL, Tableau, Microsoft Power BI, and Python. I am eager to leverage my skills to problem-solve and drive growth with actionable insights.
+I'm a professional **Data Analyst** with experience working on diverse technical projects. My expertise includes: 
+- **Data analysis** and **visualization**
+- **Storytelling** through data
+- **SQL, Tableau, Microsoft Power BI**, and **Python**
+- Advanced use of **spreadsheets** 
+I am passionate about problem-solving and driving growth by transforming data into actionable insights. 
 
-- 🔭 Currently starting a new internship. 
-- 🌱 Currently learning Python.
-- 👯 Looking to collaborate on outsourcing projects.
-- 🤝 Looking to network with fellow analysts and make connections with hiring managers.
-- 💬 Able to relocate for a full time position.
-- 💌 How to reach me: simrandulai@berkeley.edu
-- 📄 Get to know about my experience <a href='https://drive.google.com/file/d/1hs_mTneQfnKD5OPsoe1IvsxmAMEIFhCh/view?usp=sharing' target=_blank><u>here</u>.</a>
-- 👨‍💻 All of my projects are available <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u>.</a>
-- 😎 Fun fact: I have always been interested in human behavior and curious how we came to be the people we are today. I used to be obsessed with the history channel and egyptology growing up. I found my passion in Anthropology at UC Berkeley which allows me to understand culture and social dynamics and gather powerful insights.
+📌 About Me 
+- 🩺 Currently working as a **Data Analyst** in the medical industry.
+- 💻 Learning **Python** to further enhance my technical toolkit.
+- 🤝 Open to collaborating on **outsourcing projects**.
+- 🌐 Looking to network with fellow analysts and connect with **hiring managers**.
+- 🌍 Open to relocating for a **full-time position**.
+- 📧 Reach me at: simrandulai@berkeley.edu 
+
+📂 Explore More 
+- 🛠️ Check out my **experience** <a href='https://drive.google.com/file/d/1hs_mTneQfnKD5OPsoe1IvsxmAMEIFhCh/view?usp=sharing' target=_blank><u>here</u>.</a>
+- 📊 View all of my **projects** <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u>.</a> & <a href='https://github.com/simrandulai/Data_Projects_Elite' target=_blank><u>here</u>.</a>
+
+🌟 Fun Fact 
+My curiosity about human behavior and social dynamics led me to pursue a degree in Anthropology at UC Berkeley. Growing up, I was fascinated by the History Channel and Egyptology, which sparked my passion for understanding culture and history. Today, I bring that same curiosity and perspective to uncovering insights from data! 
 
 <!--
 **simrandulai/simrandulai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
