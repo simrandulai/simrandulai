@@ -17,7 +17,7 @@ I am passionate about problem-solving and driving growth by transforming data in
 
 📂 Explore More 
 - 🛠️ Check out my **experience** <a href='https://drive.google.com/file/d/1hs_mTneQfnKD5OPsoe1IvsxmAMEIFhCh/view?usp=sharing' target=_blank><u>here</u>.</a>
-- 📊 View all of my **projects** <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u>.</a> & <a href='https://github.com/simrandulai/Data_Projects_Elite' target=_blank><u>here</u>.</a>
+- 📊 View all of my **projects** <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u></a> & <a href='https://github.com/simrandulai/Data_Projects_Elite' target=_blank><u>here</u>.</a>
 
 🌟 Fun Fact 
 My curiosity about human behavior and social dynamics led me to pursue a degree in Anthropology at UC Berkeley. Growing up, I was fascinated by the History Channel and Egyptology, which sparked my passion for understanding culture and history. Today, I bring that same curiosity and perspective to uncovering insights from data! 
