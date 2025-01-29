@@ -16,7 +16,7 @@ I am passionate about problem-solving and driving growth by transforming data in
 - 📧 Reach me at: simrandulai@berkeley.edu 
 
 📂 Explore More 
-- 🛠️ Check out my **experience** <a href='https://drive.google.com/file/d/1hs_mTneQfnKD5OPsoe1IvsxmAMEIFhCh/view?usp=sharing' target=_blank><u>here</u>.</a>
+- 🛠️ Check out my **experience** <a href='https://drive.google.com/file/d/1DqHtcqIBC4iUlbsmWHh8k0f2VFR_lpWK/view?usp=sharing' target=_blank><u>here</u>.</a>
 - 📊 View all of my **projects** <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u></a> & <a href='https://github.com/simrandulai/Data_Projects_Elite' target=_blank><u>here</u>.</a>
 
 🌟 Fun Fact 
