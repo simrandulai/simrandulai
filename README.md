@@ -3,7 +3,8 @@ I'm a professional **Data Analyst** with experience working on diverse technical
 - **Data analysis** and **visualization**
 - **Storytelling** through data
 - **SQL, Tableau, Microsoft Power BI**, and **Python**
-- Advanced use of **spreadsheets** 
+- Advanced use of **spreadsheets**
+  
 I am passionate about problem-solving and driving growth by transforming data into actionable insights. 
 
 📌 About Me 
