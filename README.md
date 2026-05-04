@@ -1,31 +1,74 @@
 ### Hey there 👋, I'm Simran Dulai
-I'm a professional **Data Analyst** with experience working on diverse technical projects. My expertise includes: 
-- **Data analysis** and **visualization**
-- **Storytelling** through data
-- **SQL, Tableau, Microsoft Power BI**, and **Python**
-- Advanced use of **spreadsheets**
-  
-I am passionate about problem-solving and driving growth by transforming data into actionable insights. 
 
-📌 About Me 
-- 🩺 Currently working as a **Data Analyst** in the medical industry.
-- 💻 Learning **Python** to further enhance my technical toolkit.
-- 🤝 Open to collaborating on **outsourcing projects**.
-- 🌐 Looking to network with fellow analysts and connect with **hiring managers**.
-- 🌍 Open to relocating for a **full-time position**.
-- 📧 Reach me at: simrandulai@berkeley.edu 
+I’m a **product-minded data analyst** with 4+ years of experience turning user behavior and operational data into insights that improve **customer experience, retention, and product outcomes** across healthcare, SaaS, and emerging tech.
 
-📂 Explore More 
-- 🛠️ Check out my **experience** <a href='https://drive.google.com/file/d/1x9aN3jNX0XoQ4W6lr-9o7sIZBAtEj1jA/view?usp=sharing' target=_blank><u>here</u>.</a>
-- 📊 View all of my **projects** <a href='https://github.com/simrandulai/Data_projects_TripleTen' target=_blank><u>here</u></a> & <a href='https://github.com/simrandulai/Data_Projects_Elite' target=_blank><u>here</u>.</a>
+I focus on connecting **data → customer problems → product decisions**.
 
-🌟 Fun Fact 
+---
 
-My curiosity about human behavior and social dynamics led me to pursue a degree in Anthropology at UC Berkeley. Growing up, I was fascinated by the History Channel and Egyptology, which sparked my passion for understanding culture and history. Today, I bring that same curiosity and perspective to uncovering insights from data! 
+### 🔍 What I Do
 
-<!--
-**simrandulai/simrandulai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Translate messy data into clear, actionable insights  
+- Identify patterns in user behavior, support data, and operations  
+- Diagnose root causes behind customer friction  
+- Turn insights into product, CX, and workflow improvements  
 
-Here are some ideas to get you started:
+---
 
--->
+### 🧰 Skills & Tools
+
+- **Data & Analytics:** SQL, Excel 
+- **Visualization:** Tableau, Power BI  
+- **CX & Product Thinking:** user journeys, retention, support insights  
+- **Workflow & Ops:** process improvement, cross-functional collaboration  
+
+---
+
+### 🧠 Current Focus
+
+- Transitioning into **Product Support, Customer Success, and Product Operations** roles  
+- Building **micro-apps** that simulate real workflows in:
+  - GTM & account prioritization  
+  - Customer support → product feedback loops  
+- Deepening skills in **AI-assisted workflows and automation**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧩 Micro Apps (Real-world workflow simulations)
+
+- **Customer & Account Intelligence Agent**  
+  Analyze companies and prioritize accounts using ICP fit, signals, risks, and opportunities  
+  👉 <a href='https://simrandulai.github.io/Micro_Apps/Customer%20%26%20Account%20Intelligence%20Agent/' target="_blank"><u>View App</u></a>
+
+- **Product & CX Engine**  
+  Turn support tickets into themes, root causes, and product recommendations  
+  👉 <a href='https://simrandulai.github.io/Micro_Apps/Product%20%26%20CX%20Engine/' target="_blank"><u>View App</u></a>
+
+---
+
+### 📌 About Me
+
+- 🩺 Background as a **Data Analyst in healthcare**
+- 🌍 Recently on a **career break (travel + skill building)** while transitioning into product-facing roles  
+- 🤝 Interested in roles across **Product Support, CX Ops, Product Ops, and Customer Success**  
+- 💡 Strong interest in how **data + customer experience + product** intersect  
+
+---
+
+### 📂 Explore More
+
+- 🛠️ <a href='https://drive.google.com/file/d/1x9aN3jNX0XoQ4W6lr-9o7sIZBAtEj1jA/view?usp=sharing' target="_blank"><u>Resume</u></a>  
+- 📊 <a href='https://github.com/simrandulai/Data_projects_TripleTen' target="_blank"><u>Projects (TripleTen)</u></a>  
+- 📊 <a href='https://github.com/simrandulai/Data_Projects_Elite' target="_blank"><u>Additional Projects</u></a>  
+
+---
+
+### 🌟 Fun Fact
+
+I studied Anthropology at UC Berkeley, which shaped how I think about **human behavior, systems, and decision-making**. That curiosity now shows up in how I analyze users, products, and data.
+
+---
+
+📧 Reach me at: simrandulai@berkeley.edu
