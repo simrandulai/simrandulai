@@ -59,7 +59,7 @@ I focus on connecting **data → customer problems → product decisions**.
 
 ### 📂 Explore More
 
-- 🛠️ <a href='https://drive.google.com/file/d/1x9aN3jNX0XoQ4W6lr-9o7sIZBAtEj1jA/view?usp=sharing' target="_blank"><u>Resume</u></a>  
+- 🛠️ <a href='https://drive.google.com/file/d/1b7o0igi50D4_kGXB-btLWrr-3_7W7dCV/view?usp=sharing' target="_blank"><u>Resume</u></a>  
 - 📊 <a href='https://github.com/simrandulai/Data_projects_TripleTen' target="_blank"><u>Projects (TripleTen)</u></a>  
 - 📊 <a href='https://github.com/simrandulai/Data_Projects_Elite' target="_blank"><u>Additional Projects</u></a>  
 
