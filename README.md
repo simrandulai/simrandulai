@@ -53,8 +53,8 @@ SQL-based analysis of ride patterns, external factors, and competitor behavior i
   👉 <a href='https://github.com/simrandulai/Data_projects_TripleTen/tree/main/Zuber' target="_blank"><u>View Project</u></a>
 
 - **Clinic Total Available Hours Pivot**  
-Advanced SQL pivot building operational capacity models for clinic staffing and utilization planning
-  👉 <a href='https://github.com/simrandulai/Data_Projects_Elite/tree/main/Total%20Available%20Hours%20SQL%20Pivot' target="_blank"><u>View Project</u></a>
+Advanced SQL pivot building operational capacity models for clinic staffing and utilization planning  
+👉 <a href='https://github.com/simrandulai/Data_Projects_Elite/tree/main/Total%20Available%20Hours%20SQL%20Pivot' target="_blank"><u>View Project</u></a>
 
 ---
 
