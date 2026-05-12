@@ -46,6 +46,16 @@ I focus on connecting **data → customer problems → product decisions**.
   Turn support tickets into themes, root causes, and product recommendations  
   👉 <a href='https://simrandulai.github.io/Micro_Apps/Product%20%26%20CX%20Engine/' target="_blank"><u>View App</u></a>
 
+#### 📊 SQL Projects
+
+- **Zuber Ride-Sharing Analysis (TripleTen)**  
+SQL-based analysis of ride patterns, external factors, and competitor behavior in Chicago taxi data  
+  👉 <a href='https://github.com/simrandulai/Data_projects_TripleTen/tree/main/Zuber' target="_blank"><u>View Project</u></a>
+
+- **Clinic Total Available Hours Pivot**  
+Advanced SQL pivot building operational capacity models for clinic staffing and utilization planning
+  👉 <a href='https://github.com/simrandulai/Data_Projects_Elite/tree/main/Total%20Available%20Hours%20SQL%20Pivot' target="_blank"><u>View Project</u></a>
+
 ---
 
 ### 📌 About Me
