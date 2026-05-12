@@ -1,84 +1,70 @@
-### Hey there 👋, I'm Simran Dulai
+### 👋 Hey there, I’m Simran Dulai
 
-I’m a **product-minded data analyst** with 4+ years of experience turning user behavior and operational data into insights that improve **customer experience, retention, and product outcomes** across healthcare, SaaS, and emerging tech.
+I’m a **product-minded data analyst** with 4+ years of experience using data to improve **customer experience, onboarding, and product outcomes** across healthcare and SaaS.
 
-I focus on connecting **data → customer problems → product decisions**.
+I focus on connecting **data, customer behavior, and product decisions**.
 
 ---
 
 ### 🔍 What I Do
 
-- Translate messy data into clear, actionable insights  
-- Identify patterns in user behavior, support data, and operations  
-- Diagnose root causes behind customer friction  
-- Turn insights into product, CX, and workflow improvements  
+- Turn data into clear insights for product and operations  
+- Analyze user behavior, onboarding, and support patterns  
+- Identify root causes behind customer friction  
+- Support product and CX improvements with data  
 
 ---
 
-### 🧰 Skills & Tools
+### 🧰 Skills
 
-- **Data & Analytics:** SQL, Excel 
-- **Visualization:** Tableau, Power BI  
-- **CX & Product Thinking:** user journeys, retention, support insights  
-- **Workflow & Ops:** process improvement, cross-functional collaboration  
+- **Analytics:** SQL, Excel  
+- **BI Tools:** Tableau, Power BI  
+- **Focus Areas:** onboarding, retention, lifecycle analysis  
+- **Ops:** process improvement, cross-functional collaboration  
 
 ---
 
 ### 🧠 Current Focus
 
-- Transitioning into **Product Support, Customer Success, and Product Operations** roles  
-- Building **micro-apps** that simulate real workflows in:
-  - GTM & account prioritization  
-  - Customer support → product feedback loops  
-- Deepening skills in **AI-assisted workflows and automation**
+- Transitioning into **Customer Success, Product Ops, and Product Support**
+- Building workflow simulation tools for:
+  - GTM and account prioritization  
+  - Customer feedback to product loops  
+- Learning AI-assisted workflow automation  
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧩 Micro Apps (Real-world workflow simulations)
+#### 🧩 Micro Apps
 
 - **Customer & Account Intelligence Agent**  
-  Analyze companies and prioritize accounts using ICP fit, signals, risks, and opportunities  
-  👉 <a href='https://simrandulai.github.io/Micro_Apps/Customer%20%26%20Account%20Intelligence%20Agent/' target="_blank"><u>View App</u></a>
+  Prioritizes accounts using ICP fit, signals, and risks  
+  👉 <a href='https://simrandulai.github.io/Micro_Apps/Customer%20%26%20Account%20Intelligence%20Agent/' target="_blank">View App</a>
 
 - **Product & CX Engine**  
-  Turn support tickets into themes, root causes, and product recommendations  
-  👉 <a href='https://simrandulai.github.io/Micro_Apps/Product%20%26%20CX%20Engine/' target="_blank"><u>View App</u></a>
+  Turns support tickets into themes and product insights  
+  👉 <a href='https://simrandulai.github.io/Micro_Apps/Product%20%26%20CX%20Engine/' target="_blank">View App</a>
 
 #### 📊 SQL Projects
 
-- **Zuber Ride-Sharing Analysis (TripleTen)**  
-SQL-based analysis of ride patterns, external factors, and competitor behavior in Chicago taxi data  
-  👉 <a href='https://github.com/simrandulai/Data_projects_TripleTen/tree/main/Zuber' target="_blank"><u>View Project</u></a>
+- **Zuber Ride-Sharing Analysis**  
+  SQL analysis of ride patterns and external factors in Chicago taxi data  
+  👉 <a href='https://github.com/simrandulai/Data_projects_TripleTen/tree/main/Zuber' target="_blank">View Project</a>
 
-- **Clinic Total Available Hours Pivot**  
-Advanced SQL pivot building operational capacity models for clinic staffing and utilization planning  
-👉 <a href='https://github.com/simrandulai/Data_Projects_Elite/tree/main/Total%20Available%20Hours%20SQL%20Pivot' target="_blank"><u>View Project</u></a>
+- **Clinic Capacity SQL Pivot**  
+  SQL model for clinic staffing and operational capacity planning  
+  👉 <a href='https://github.com/simrandulai/Data_Projects_Elite/tree/main/Total%20Available%20Hours%20SQL%20Pivot' target="_blank">View Project</a>
 
 ---
 
 ### 📌 About Me
 
-- 🩺 Background as a **Data Analyst in healthcare**
-- 🌍 Recently on a **career break (travel + skill building)** while transitioning into product-facing roles  
-- 🤝 Interested in roles across **Product Support, CX Ops, Product Ops, and Customer Success**  
-- 💡 Strong interest in how **data + customer experience + product** intersect  
+- Healthcare data background focused on operations + customer experience  
+- Currently transitioning into product-facing roles  
+- Interested in onboarding, retention, and CX optimization  
+- Studied Anthropology at UC Berkeley, shaping how I think about systems and behavior  
 
 ---
 
-### 📂 Explore More
-
-- 🛠️ <a href='https://drive.google.com/file/d/1b7o0igi50D4_kGXB-btLWrr-3_7W7dCV/view?usp=sharing' target="_blank"><u>Resume</u></a>  
-- 📊 <a href='https://github.com/simrandulai/Data_projects_TripleTen' target="_blank"><u>Projects (TripleTen)</u></a>  
-- 📊 <a href='https://github.com/simrandulai/Data_Projects_Elite' target="_blank"><u>Additional Projects</u></a>  
-
----
-
-### 🌟 Fun Fact
-
-I studied Anthropology at UC Berkeley, which shaped how I think about **human behavior, systems, and decision-making**. That curiosity now shows up in how I analyze users, products, and data.
-
----
-
-📧 Reach me at: simrandulai@berkeley.edu
+📧 simrandulai@berkeley.edu
